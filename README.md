@@ -2,7 +2,21 @@
 
 ### download plugins
 
-- [link]() for [nextorrent.me](https://www.nextorrent.me) plugin
+- link for the NexTorrent plugin: https://raw.githubusercontent.com/ValentinLvrr/qbit-search-plugins/main/nextorrent.py
+
+### requirements
+
+**on windows:**
+
+```bash
+pip install beautifulsoup4
+```
+
+**on linux/macos:**
+
+```bash
+pip3 install beautifulsoup4
+```
 
 ### import the plugin
 
