@@ -2,7 +2,7 @@
 
 ### download plugins
 
-- [link]() for nextorrent plugin
+- [link]() for [nextorrent.me](https://www.nextorrent.me) plugin
 
 ### import the plugin
 
