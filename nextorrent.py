@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 
 class nextorrent(object):
-    url = 'https://www.nextorrent.me'
+    url = 'https://www.nextorrent.vg'
     name = 'NexTorrent'
     supported_categories = {'all': '0'}
 
